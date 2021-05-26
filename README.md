@@ -1,4 +1,4 @@
-## Админка дял сайта НКО «ФАР»
+## Админка для сайта НКО «ФАР»
 
 #### Технологический стек: HTML, CSS, JavaScript, React, Styled compopents express, mongoDB, webpack, strapi, npm, git, linux, bash
 
